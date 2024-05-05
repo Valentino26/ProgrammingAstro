@@ -1,0 +1,3 @@
+ASDF (Advanced Scientific Data Format) strebt an, das FITS Nachfolgeformat zu werden. import asdf
+
+The Flexible Image Transport System (FITS) standard is a widely used data format in astronomy that incorporates metadata and ASCII or binary data in the same file. However, the FITS standard has several limitations that make it difficult to use for complicated and hierarchical data. For example, the FITS 'cards' have keywords limited to only 8 characters, which can make it difficult to properly describe the value associated with it and the value for each keyword and its comment cannot be longer than 68 characters. By using YAML, more sophisticated and nested data structures may be used in ASDF than FITS.

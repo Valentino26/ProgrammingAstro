@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "c5205a6f9e7e8c06",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb9e086da1026a2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7597480262f6f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Client.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f91d134b92b9f523",
+    "type": "split",
+    "children": [
+      {
+        "id": "1875fb4ef3248c40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "905c3c141a4ebb4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63b4823a36fb969e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03077499b831b292",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70efd72cd1c98def",
+    "type": "split",
+    "children": [
+      {
+        "id": "36459330def8cc02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9536af16c699a0eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Client.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de6a096051263eba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Client.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df20e1c8665f6aac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6da97a220a1c2d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Client.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e7597480262f6f02",
+  "lastOpenFiles": [
+    "Programmieren/ExerciseSheet5Task1.py",
+    "Programmieren/Task2.py",
+    "CLI Args.md",
+    "Sockets in Python.md",
+    "Server.md",
+    "Linux.md",
+    "Klassen.md",
+    "remote-vlog",
+    "Datentypen.md",
+    "Programmablaufsteuerung.md",
+    "Python 3 Datentypen.md",
+    "BASH Basics.md",
+    "Python.md",
+    "Theoretische Informatik.md",
+    "Technische Informatik.md",
+    "Praktische Informatik.md",
+    "Fileformate und IO.md",
+    "Client.md",
+    "sockets-loopback-interface.44fa30c53c70.avif",
+    "sockets-tcp-flow.1da426797e37.avif",
+    "Screenshot 2024-05-05 220654.png",
+    "Shell-Befehle von Python aus ausfuehren.md",
+    "Screenshot 2024-05-05 220611.png",
+    "Kommandozeilenargumente.md",
+    "Umgebungsvariablen.md",
+    "Pasted image 20240505220218.jpg",
+    "Screenshot 2024-05-05 220139.png",
+    "Screenshot 2024-05-05 220021.png",
+    "GETOPT.md",
+    "Screenshot 2024-05-05 215131.png",
+    "ASDF.md",
+    "FITS.md",
+    "Pasted image 20240505214902.png",
+    "hdf5.md",
+    "Fehlertoleranz.md",
+    "numpy.fromfile.md",
+    "binascii.md",
+    "LagrangeInterpolatingPoly_900.svg",
+    "Untitled.canvas",
+    "Programmieren/asdasd.py",
+    "Programmieren/asdasd.java",
+    "Programmieren/AKSJDKSA.py"
+  ]
+}
